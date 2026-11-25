@@ -1,2 +1,4 @@
-# iris_csv_starter_1
-Colab
+# Integrated Skill Collection — v1.0
+Choose either the integrated-workbench ZIP (all six modules bundled as one skill) OR the six individual ZIPs for selective use. Avoid installing both approaches unless you want overlapping triggers.
+Each ZIP has a single skill directory containing SKILL.md and local references. Import using your ChatGPT Skills interface if available; otherwise extract and use the Markdown instructions in a project. Exact import availability and behaviour depend on your account; no installation was performed.
+The playbooks contain acceptance scenarios, not executed end-to-end tests. No private source documents, credentials, or external dependencies are bundled. Terminology and operational rules must be verified against current source files. To update, edit the relevant module, increment your release version, rerun acceptance scenarios, and rebuild the integrated copy.
